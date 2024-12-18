@@ -11,7 +11,7 @@ Currently studying, improving my skills and diving into the developing world.
 </div>
 
 ### About me
-- ✨ I stream live coding (and gaming sometimes) on [**Twitch**](https://www.twitch.tv/kitsunecozy)
+- ✨ I stream live coding (and gaming) on [**Twitch**](https://www.twitch.tv/kitsunecozy)
 - ☁️ Main language is [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 🤍 I'm really passionate about games, anime, movies/shows and music.
 - 🌸 Pronouns: `She/Her`
