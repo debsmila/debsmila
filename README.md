@@ -2,7 +2,7 @@
   
 ## 🩷 Hello! 🩷
 
-### I'm Débora, also known as Kitsune! 🦊
+### I'm Débora, but you can call me Debs! 🌸
 
 Currently studying, improving my skills and diving into the developing world.
 
