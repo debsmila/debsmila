@@ -39,7 +39,7 @@ Currently studying, improving my skills and diving into the developing world.
 <br/>
 
 <h3 align="center">
-  FullStack Developer • Streamer
+  Front-end Developer • Streamer
 </h3>
 
 <div align='center'>
